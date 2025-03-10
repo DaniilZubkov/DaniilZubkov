@@ -26,6 +26,11 @@ Im backend developer from Russia, Samara
   </a>
 </p>
 
+### Codewars Stats
+
+![Codewars](https://www.codewars.com/users/YourUsername/badges/large)
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
