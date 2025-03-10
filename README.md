@@ -28,7 +28,7 @@ Im backend developer from Russia, Samara
 
 ### Codewars Stats
 
-![Codewars](https://www.codewars.com/users/YourUsername/badges/large)
+![Codewars](https://www.codewars.com/users/Danil4ek/badges/large)
 
 
 ### Badges
