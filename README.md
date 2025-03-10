@@ -15,6 +15,19 @@ Im backend developer from Russia, Samara
 
 <p align="left"> <a href="https://www.github.com/DaniilZubkov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
+<p align="left"> 
+  <a href="https://www.github.com/DaniilZubkov" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+  <a href="https://t.me/+1A9f6ZFMJBgxMjRi" target="_blank" rel="noreferrer"> 
+    <img src="https://simpleicons.org/icons/telegram.svg" width="32" height="32" alt="Telegram" /> 
+  </a>
+</p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
