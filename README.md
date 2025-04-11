@@ -1,6 +1,9 @@
 Hi 👋 My name is Daniil Zubkov
 ==============================
 
+![Image](https://github.com/user-attachments/assets/3f21e9d7-6f91-481b-a9ff-f56a8bcf0bb7)
+
+
 Im backend developer from Russia, Samara
 
 * 🌍  I'm based in Россия
