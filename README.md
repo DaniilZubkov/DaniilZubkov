@@ -5,7 +5,20 @@
 
 ======================================================================================
 
-![Image](https://github.com/user-attachments/assets/7aab3d4f-b9c5-4867-9177-069213f47345)
+
+
+
+
+██████╗  █████╗  ██████╗██╗  ██╗███████╗███╗   ██╗██████╗ 
+██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██╔════╝████╗  ██║██╔══██╗
+██████╔╝███████║██║     █████╔╝ █████╗  ██╔██╗ ██║██║  ██║
+██╔══██╗██╔══██║██║     ██╔═██╗ ██╔══╝  ██║╚██╗██║██║  ██║
+██████╔╝██║  ██║╚██████╗██║  ██╗███████╗██║ ╚████║██████╔╝
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚═════╝ 
+                                                          
+
+
+
 
 
 ### My Skills
@@ -23,7 +36,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </p>
 
-[![Python](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=3776AB&background=FFFFFF00&vCenter=true&width=435&lines=print(%22Hello+Web3%22))](https://www.python.org)
+
 
 ### Socials
 
