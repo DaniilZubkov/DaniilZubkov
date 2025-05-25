@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
 </p>
 
+<img src="https://img.shields.io/badge/LINUX-терминал-00ff00?style=for-the-badge&logo=linux&logoColor=black&color=000000&labelColor=00ff88&link=https://t.me/golovnaya_lobotomia"> 
 
 ### Socials
 
