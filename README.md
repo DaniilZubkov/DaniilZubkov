@@ -1,4 +1,4 @@
-# Hi 👋 My name is 𝙂𝙤𝙡𝙤𝙫𝙣𝙖𝙮𝙖 𝙇𝙤𝙗𝙤𝙩𝙤𝙢𝙞𝙖 (Daniil)
+# Hi 👋 My name is JA Coder (Daniil)
 #### Im backend developer from Russia, Samara. Im Self-taught.
 
 * 🌍  I'm based in Россия
