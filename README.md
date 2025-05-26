@@ -41,6 +41,13 @@
 </p>
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
 ### 👨‍💻 Socials & Contact
 
@@ -58,10 +65,28 @@
 ![Codewars](https://www.codewars.com/users/Danil4ek/badges/large)
 
 
+<br>
+<br>
+
 ### 📊 My GitHub Stats
 
-<a href="http://www.github.com/DaniilZubkov"><img src="https://github-readme-stats.vercel.app/api?username=DaniilZubkov&show_icons=true&hide=stars,prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaniilZubkov's GitHub stats" /></a>
+<div align="center">
+  <a href="http://www.github.com/DaniilZubkov">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniilZubkov&background=000000&stroke=39FF14&ring=FF003C&fire=FFE600&currStreakNum=FF003C&currStreakLabel=39FF14&sideNums=00F0FF&sideLabels=FF46ED&dates=FFFFFF&hide_border=true" />
+  </a>
+</div>
 
-<a href="https://github.com/DaniilZubkov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniilZubkov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/DaniilZubkov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DaniilZubkov&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=150 src="https://github-readme-stats.vercel.app/api?username=DaniilZubkov&card_width=200&hide=rank,contribs&show_icons=true&theme=synthwave">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=DaniilZubkov&layout=compact&langs_count=8&theme=synthwave">
+      </a>
+    </td>
+  </tr>
+</div>
