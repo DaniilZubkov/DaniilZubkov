@@ -1,7 +1,8 @@
 # Hi 👋 My name is JA Coder (Daniil)
 #### Im backend developer from Russia, Samara. Im Self-taught.
 
-* 🌍  I'm based in Россия
+* 🌍  I'm based in Russia (Samara)
+
 
 <br>
 <br>
