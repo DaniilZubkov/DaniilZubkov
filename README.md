@@ -39,6 +39,7 @@
 <img src="https://api.iconify.design/devicon/vscode.svg" width="36" height="36" alt="Vs-code">
 <img src="https://api.iconify.design/skill-icons/django.svg" width="37" height="37" alt="Django">
 <img src="https://api.iconify.design/devicon/linux.svg" width="36" height="36" alt="Linux">
+<img src="https://api.iconify.design/devicon/neovim.svg" width="36" height="36" alt="Nvim">
 </p>
 
 
