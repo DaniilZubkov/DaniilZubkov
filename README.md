@@ -1,4 +1,4 @@
-[!(https://github.com/DaniilZubkov/DaniilZubkov/blob/master/assets/banner.jpg)]
+![img](banner.jpg)
 
 # Hi 👋 My name is Daniil
 #### Im backend developer from Russia, Samara. Im Self-taught.
