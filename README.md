@@ -1,4 +1,6 @@
-# Hi 👋 My name is JA Coder (Daniil)
+[![Header](https://github.com/DaniilZubkov/DaniilZubkov/blob/master/assets/banner.jpg)]
+
+# Hi 👋 My name is Daniil
 #### Im backend developer from Russia, Samara. Im Self-taught.
 
 * 🌍  I'm based in Russia (Samara)
