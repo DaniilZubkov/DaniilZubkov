@@ -1,5 +1,3 @@
-![img](banner.jpg)
-
 # Hi 👋 My name is Daniil
 #### Im backend developer from Russia, Samara. Im Self-taught.
 
