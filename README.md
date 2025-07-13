@@ -1,7 +1,7 @@
 # Hi 👋 My name is Daniil
-#### Im backend developer from Russia, Samara. Im Self-taught.
+#### Im backend developer from Russia. Im Self-taught.
 
-* 🌍  I'm based in Russia (Samara)
+* 🌍  I'm based in Russia
 
 
 <br>
