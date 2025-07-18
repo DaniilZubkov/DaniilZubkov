@@ -1,4 +1,4 @@
-# Hi 👋 My name is Daniil
+# Hi 👋 My name is Daniil (I left GitHub for Codeberg)
 #### Im backend developer from Russia. Im Self-taught.
 
 * 🌍  I'm based in Russia
